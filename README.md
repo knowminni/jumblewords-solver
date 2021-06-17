@@ -11,13 +11,15 @@ I went through all the apps which were listed in the play store, inspected the f
 
 ### ***Here are my conclusions***
 
-> Build an app that takes a word as input.
-> Unjumbles it and gives possible combinations.
-> Input can be in the form: Text Input, Scanned Image or Voice Input.
-> There can be a parameter: Number of words that the potential output should possess.
+> 
+* Build an app that takes a word as input.
+* Unjumbles it and gives possible combinations.
+* Input can be in the form: Text Input, Scanned Image or Voice Input.
+* There can be a parameter: Number of words that the potential output should possess.
+>
 
 
-#### **My Workflow: **
+#### **My Workflow**
 
 We'll decide it, I have something in mind, will be documenting later.
 
