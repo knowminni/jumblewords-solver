@@ -15,7 +15,7 @@ I went through all the apps which were listed in the play store, inspected the f
 * Build an app that takes a word as input.
 * Unjumbles it and gives possible combinations.
 * Input can be in the form: Text Input, Scanned Image or Voice Input.
-* There can be a parameter: Number of words that the potential output should possess.
+* There can be a parameter: Number of words that the potential output should consist of.
 >
 
 
